@@ -1,0 +1,9 @@
+{
+  "name": "@knowler/design-system",
+  "version": "0.0.0",
+  "description": "My own personal design system.",
+  "main": "theme.js",
+  "repository": "https://github.com/knowler/design-system",
+  "author": "Nathan Knowler <nathan@knowler.me>",
+  "license": "MIT"
+}

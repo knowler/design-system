@@ -1,9 +1,11 @@
 {
-  "name": "@knowler/design-system",
-  "version": "0.0.0",
-  "description": "My own personal design system.",
-  "main": "theme.js",
-  "repository": "https://github.com/knowler/design-system",
-  "author": "Nathan Knowler <nathan@knowler.me>",
-  "license": "MIT"
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.20.2"
+  },
+  "volta": {
+    "node": "12.16.2",
+    "yarn": "1.22.4"
+  }
 }
